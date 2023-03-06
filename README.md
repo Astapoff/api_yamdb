@@ -57,7 +57,7 @@
 **Клонируем репозиторий и заходим в его директорию:**
 
 ```shell
-git clone https://github.com/camousmen/api_yamdb.git
+git clone https://github.com/Astapoff/api_yamdb.git
 cd api_yamdb
 ```
 
